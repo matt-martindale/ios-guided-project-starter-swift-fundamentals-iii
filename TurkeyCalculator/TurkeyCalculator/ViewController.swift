@@ -18,11 +18,11 @@ class ViewController: UIViewController {
     
     // Actions
     
-    @IBAction func calculateButtonPressed(_ sender: UIButton) {
+    @IBAction func calculateButtonPressed(_ sender: Any) {
         
     }
     
-    @IBAction func metricButtonPressed(_ sender: UIButton) {
+    @IBAction func metricButtonPressed(_ sender: Any) {
         
     }
     
